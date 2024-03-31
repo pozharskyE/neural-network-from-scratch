@@ -1,7 +1,6 @@
 import numpy as np
 import json
 import matplotlib.pyplot as plt
-from matplotlib.animation import FuncAnimation
 
 from live_plot import live_plot as live_plot_class
 
